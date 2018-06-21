@@ -1,6 +1,6 @@
 # SPADE Documentation
 
-SPADE is a customized version of the [GeoNode Open Source Geospatial Content Management System](https://geonode.org>). This documentation is based on the [GeoNode Training Documentation Portal](https://training.geonode.geo-solutions.it) ([source]( <)https://github.com/geosolutions-it/doc-geonode/).
+SPADE is a customized version of the [GeoNode Open Source Geospatial Content Management System](https://geonode.org>). This documentation is based on the [GeoNode Training Documentation Portal](https://training.geonode.geo-solutions.it) ([source](https://github.com/geosolutions-it/doc-geonode/)).
 
 As a result, the name GeoNode will be used when generic functions are described. In sections that focus on SPADE specific functionality, the  name SPADE will be used.
 
