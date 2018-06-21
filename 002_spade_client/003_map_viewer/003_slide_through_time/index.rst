@@ -1,7 +1,7 @@
 .. _slide_through_time:
 
 ============================
-SPADE Slide Through Time
+Slide Through Time
 ============================
 
 .. figure:: img/slide_through_time.png
@@ -20,7 +20,8 @@ The SPADE Slide through time tool is designed to visualize developments in time.
   * Location – Shows the position of the current timestep along the whole interval. Can be used to select a certain timestep.
   * Speed slider – can be used to modify the speed of the animated playback.
 
-
+  .. note::
+    * After changing the opacity sliders in the Slide through time tool in Microsoft Internet Explorer, the corresponding layer is not refreshed. Work-around is to change the layer to another layer, then change back to the layer desired.
 
 
 .. toctree::

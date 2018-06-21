@@ -1,7 +1,7 @@
 .. _spade_drawing_toolbar:
 
 ============================
-SPADE Drawing Toolbar
+Drawing Toolbar
 ============================
 
 .. figure:: img/drawing_toolbar.png

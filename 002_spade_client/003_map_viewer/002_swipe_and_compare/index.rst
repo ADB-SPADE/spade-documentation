@@ -1,7 +1,7 @@
 .. _swipe_and_compare:
 
 ============================
-SPADE Swipe & Compare
+Swipe & Compare
 ============================
 
 .. figure:: img/swipe_and_compare.png
@@ -14,6 +14,9 @@ The SPADE Swipe & Compare tool is designed to help comparing two different situa
 4.	The legend for both left- and right overlays is shown in the sidebar.
 5.	The swiper bar forms the demarcation between the left and the right overlay. By moving this bar sideways, differences between the two layers can be analysed.
  
+.. note::
+  * After changing the opacity sliders in the Swipe & Compare tool in Microsoft Internet Explorer, the corresponding layer is not refreshed. Work-around is to change the layer to another layer, then change back to the layer desired.
+  * The swiper bar of the Swipe & Compare tool, cannot be moved in Microsoft Internet Explorer. Work-around is to drag the underlying map to the left or to the right.
 
 
 

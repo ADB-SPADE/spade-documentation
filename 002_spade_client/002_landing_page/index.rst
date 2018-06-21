@@ -1,4 +1,4 @@
-.. _spade_map_viewer:
+.. _spade_landing_page:
 
 ============================
 SPADE Landing Page

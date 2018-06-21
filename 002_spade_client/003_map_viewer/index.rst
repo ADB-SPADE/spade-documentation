@@ -1,4 +1,4 @@
-.. _spade_map_viewer:
+.. _spade_map_viewer_detail:
 
 ============================
 SPADE Map viewer
