@@ -1,6 +1,6 @@
 # SPADE Documentation
 
-SPADE is a customized version of the `GeoNode Open Source Geospatial Content Management System  <https://geonode.org>`_. This documentation is written by Royal HaskoningDHV, based on the `GeoNode Training Documentation Portal <https://training.geonode.geo-solutions.it>`_ (`source <https://github.com/geosolutions-it/doc-geonode/>`_) written by GeoSolutions.
+SPADE is a customized version of the [GeoNode Open Source Geospatial Content Management System](https://geonode.org>). This documentation is based on the [GeoNode Training Documentation Portal](https://training.geonode.geo-solutions.it) ([source]( <)https://github.com/geosolutions-it/doc-geonode/).
 
 As a result, the name GeoNode will be used when generic functions are described. In sections that focus on SPADE specific functionality, the  name SPADE will be used.
 
@@ -32,7 +32,7 @@ You may obtain a copy of the License at Creative Commons Attribution-ShareAlike 
 The document is written in reStructuredText format for consistency and portability.
 
 ## Author Information
-This documentation was written by GeoSolutions.
+This documentation was written by Royal HaskoningDHV, based on the [GeoNode Training Documentation Portal](https://training.geonode.geo-solutions.it) written by GeoSolutions.
 
 The layout for the reStructuredText based documentation is based on the work done by the GeoNode project and the Sphinx framework.
 
