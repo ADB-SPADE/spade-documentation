@@ -1,39 +1,14 @@
-[![Stories in Ready](https://badge.waffle.io/geosolutions-it/doc-geonode.png?label=ready&title=Ready)](https://waffle.io/geosolutions-it/doc-geonode)
-# doc-geonode
-GeoNode Training Documentation Portal http://training.geonode.geo-solutions.it/
+# SPADE Documentation
 
-#GeoNode Training Documentation
+SPADE is a customized version of the `GeoNode Open Source Geospatial Content Management System  <https://geonode.org>`_. This documentation is written by Royal HaskoningDHV, based on the `GeoNode Training Documentation Portal <https://training.geonode.geo-solutions.it>`_ (`source <https://github.com/geosolutions-it/doc-geonode/>`_) written by GeoSolutions.
 
-Welcome to the GeoNode Training Documentation.
+As a result, the name GeoNode will be used when generic functions are described. In sections that focus on SPADE specific functionality, the  name SPADE will be used.
 
-#Translate The Documentation
-1. Dump pot file into i18n folder
+# SPADE Training Documentation
 
-    $ sphinx-build -b gettext . i18n/pot
-  
-2. Translate pot file using Transifex or Poedit
+Welcome to the SPADE Training Documentation.
 
-3. Save .po and .mo files into
-    
-    $ i18n/$(LANG)/LC_MESSAGES
-    
-    Note: Transifex allows to download .po file. Once the translation is ready, select "Download for use" in order to get the .po translated version.
-          Put the .po tranlsated file into 'i18n/$(LANG)/LC_MESSAGES' and rename it as the original .pot file maintaining the .po extension.
-          Use the command 'sphinx-intl build' in order to generate the .mo compiled translation for Sphinx.
-          
-          The 'sphinx-intl' can be installed with 'pip install sphinx-intl'
-    
-    More: http://sphinx-doc.org/latest/intl.html
-    
-4. Build the doc
-
-    # Windows
-    $ make html en
-    
-    # Linux
-    $ make html LANG=en
-
-##License Information
+## License Information
 Documentation
 Documentation is released under a [Creative Commons](http://training.geonode.geo-solutions.it/#term-creative-commons) license with the following conditions.
 
@@ -56,12 +31,12 @@ You may obtain a copy of the License at Creative Commons Attribution-ShareAlike 
 
 The document is written in reStructuredText format for consistency and portability.
 
-##Author Information
+## Author Information
 This documentation was written by GeoSolutions.
 
 The layout for the reStructuredText based documentation is based on the work done by the GeoNode project and the Sphinx framework.
 
 If you have questions, found a bug or have enhancements, please contact us through info@geosolutions.it
 
-#Creative Commons
+# Creative Commons
 Creative Commons Attribution-ShareAlike 3.0 Unported License Creative Commons (CC) is a non-profit organization devoted to expanding the range of creative works available for others to build upon legally and to share. The organization has released several copyright-licenses known as Creative Commons licenses free of charge to the public. These licenses allow creators to communicate which rights they reserve, and which rights they waive for the benefit of recipients or other creators. An easy-to-understand one-page explanation of rights, with associated visual symbols, explains the specifics of each Creative Commons license. Creative Commons licenses do not replace copyright, but are based upon it. They replace individual negotiations for specific rights between copyright owne (licensor) and licensee, which are necessary under an “all rights reserved” copyright management, with a “some rights reserved” management employing standardized licenses for re-use cases where no commercial compensation is sought by the copyright owner. The result is an agile, low-overhead and low-cost copyright-management regime, profiting both copyright owners and licensees.
