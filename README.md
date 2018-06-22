@@ -36,7 +36,5 @@ This documentation was written by Royal HaskoningDHV, based on the [GeoNode Trai
 
 The layout for the reStructuredText based documentation is based on the work done by the GeoNode project and the Sphinx framework.
 
-If you have questions, found a bug or have enhancements, please contact us through info@geosolutions.it
-
 # Creative Commons
 Creative Commons Attribution-ShareAlike 3.0 Unported License Creative Commons (CC) is a non-profit organization devoted to expanding the range of creative works available for others to build upon legally and to share. The organization has released several copyright-licenses known as Creative Commons licenses free of charge to the public. These licenses allow creators to communicate which rights they reserve, and which rights they waive for the benefit of recipients or other creators. An easy-to-understand one-page explanation of rights, with associated visual symbols, explains the specifics of each Creative Commons license. Creative Commons licenses do not replace copyright, but are based upon it. They replace individual negotiations for specific rights between copyright owne (licensor) and licensee, which are necessary under an “all rights reserved” copyright management, with a “some rights reserved” management employing standardized licenses for re-use cases where no commercial compensation is sought by the copyright owner. The result is an agile, low-overhead and low-cost copyright-management regime, profiting both copyright owners and licensees.
