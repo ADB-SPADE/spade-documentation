@@ -11,7 +11,7 @@ Administration specific for SPADE
    :maxdepth: 1
 
    cities
-   swipable_layers
    clippable_layers
+   swipable_layers
    time_enabled_rasters
    stations

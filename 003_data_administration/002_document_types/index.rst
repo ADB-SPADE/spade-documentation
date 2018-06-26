@@ -69,5 +69,8 @@ Through the document detailed page is possible to view, download and manage a do
 Remote Services
 ---------
 
-.. warning::
-  TODO: ADD REMOTE SERVICES HERE
+GeoNode provides the opportunity to add remote GIS webservices as GeoNode layers.The following types of remote services can be configured:
+
+*	Web Map Service (WMS)
+*	Another GeoNode instance (Web Map Service)
+*	ArcGIS REST Mapservice

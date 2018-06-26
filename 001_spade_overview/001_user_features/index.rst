@@ -3,9 +3,7 @@
 ===============
 Main Features
 ===============
-Open Source Geospatial Content Management System
-
-GeoNode is a web-based application and platform for developing geospatial information systems (GIS) and for deploying spatial data infrastructures (SDI).
+SPADE is an Open Source Geospatial Content Management System, based on the GeoNode platform. GeoNode is a web-based application and platform for developing geospatial information systems (GIS) and for deploying spatial data infrastructures (SDI).
 
 .. toctree::
    :maxdepth: 2

@@ -26,8 +26,8 @@ Downloads
 
 At the top of the page there are two buttons titled :guilabel:`Download Layer` and :guilabel:`Download Metadata`. These buttons provide access to the ability to extract geospatial data and metadata from within GeoNode. In this way, GeoNode allows for two way data and metadata access; one can import as well as export data.
 
-Data
-^^^^
+Export Data – Download layer
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 #. Click the :guilabel:`Download Layer` button. You will see a list of options of the supported export formats.
 
@@ -39,11 +39,24 @@ Data
 
 #. GeoNode will process the request and bring up a Save As dialog. Save this file to your computer, and note how it is the same content as was uploaded.
 
-Clip
-^^^^
+Export Data – Clip and Ship
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SPADE provides functionality to download a portion of large raster files for use in a desktop GIS system. When opening the Clip tool, a list of configured rasters available for clipping are shown:
 
-Metadata
-^^^^^^^^
+.. figure:: img/clipandship_list.png
+
+The detail page for a clip-able layer shows a map. In this map, a section can be drawn for which the data will be downloaded (in georeferenced tiff-format).
+
+.. figure:: img/clipandship_detail.png
+
+1.	Zoom buttons
+2.	Drawing buttons: function the same as in the SPADE Drawing Toolbar (:ref:`spade_drawing_toolbar`)
+3.	Download button: starts the download for the drawn location
+4.	Drawn location for which the data will be downloaded.
+
+
+Export Metadata
+^^^^^^^^^^^^^^^
 
 #. Click the :guilabel:`Download Metadata` button. You will see a list of options of the supported export formats.
 
